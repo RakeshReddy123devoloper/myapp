@@ -6,11 +6,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import reportWebVitals from './reportWebVitals';
 // import Sample from './sample';
 // import Time from './timetable';
-// import Img from './img'
-// import Header from './header'
-// import Footer from './footer'
+import Img from './img'
+import Header from './header'
+import Footer from './footer'
 // import Main from './mobile'
-// //  import Main from './fakestore';
+//  import Main from './fakestore';
  import Fresher from './fresherjob';
   // import Parent from './propsparent'
 // import Accordian from './accodian/accodian';
@@ -31,10 +31,10 @@ root.render(
     {/* <App /> */}
     {/* <Sample/> */}
     {/* <Time/> */}
-{/*    
+    
      <Header/> 
       <Img/> 
-    <Footer/> */}
+    <Footer/> 
     {/* <Main/> */}
     
     <Fresher/>
