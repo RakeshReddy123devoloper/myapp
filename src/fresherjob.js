@@ -2,6 +2,9 @@ import "./fresher.css";
 function Fresher() {
   return (
     <>
+     <div style={{textAlign:"center"}}>
+            <h1>TASK : 2</h1>
+        </div>
       <div className="fresher">
         <h1 style={{ color: "red", paddingTop: "3vh" }}>
           ANUMANDLA RAKESH REDDY
