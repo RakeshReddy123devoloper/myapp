@@ -6,7 +6,7 @@ import mobile2 from './imgreact/mobile3.jpg'
 const obj={
     productname:"mobiles",
     price:55000,
-    productavail:true,
+    productavail:false,
     dateissue:"november",
 device:"realme 5g",
 ram:"4gb",
@@ -25,8 +25,8 @@ var obj3={
     device:"samsung 5g",
     productname:"mobiles",
     price:64000,
-    productavail:false,
-    dateissue:"october",
+    productavail:true,
+    dateissue:"october",    
 ram:"12gb",
 rom:"220gb"
 }

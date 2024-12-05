@@ -24,20 +24,21 @@
 // export default Notification
 // it is parent to child in functional compponent so used props.children
 
+// import Button from 'react-bootstrap/Button';
 
-// import React from "react";
-// function Notification(props){
-//     return(
-//         <div>
-//             {props.children.map((a,b)=>{
-//                 return(
-//            <ol key={b}>
-// <li>{a}</li>
-//            </ol>         
-//                 )
-//             })}
-//         </div>
-//     )
-// }
-// export default Notification
+
+
+import Button from 'react-bootstrap/Button';
+import React from "react";
+function Notification(props){
+    return(
+        <div>
+         <Button variant='success'>{props.children}</Button>
+            <button>click me</button>     
+            {props.children[1]}
+    
+        </div>
+    )
+}
+export default Notification
 

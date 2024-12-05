@@ -87,10 +87,12 @@ function Fresher() {
           <span className="fresher7"> .</span>Creating a WhatsApp clone using HTML and CSS focuses primarily on replicating the visual aspects of the 
           messaging application. 
         </p>
-        <p className="fresher8">
+      <span>
+      <p className="fresher8">
           <span className="fresher7"> .</span>This type of project is great for practicing HTML and CSS skills and understanding how to structure and 
           style a web application interface. 
         </p>
+      </span>
         <h4 className="fresher10"> BASIC TINKER TEMPL USING HTML ,CSS</h4>
        
        {/* <p className="fresher8">
@@ -132,19 +134,19 @@ Certication on full stack web devolopment by html,css & JavaScript
 
 
 
- <div className="fresher4">
+ <div className="fresher12">
         <h3 className="fresher5" id="raa5">CONTACT</h3>
-        <p className="fresher8">
-          <span className="fresher7"> .</span> phno:6304699210 </p>
-        <p className="fresher8">
-          <span className="fresher7"> .</span>Email:<a href="aanumandlarakeshreddy123@gmail.com">mailid</a>
+        <p className="fresher13">
+          <span className="fresher20"> .</span> phno:6304699210 </p>
+        <p className="fresher14">
+          <span className="fresher20"> .</span>Email:<a href="aanumandlarakeshreddy123@gmail.com">mailid</a>
         </p>
-        <h2 className="fresher8">
-          <span className="fresher7"> .</span>Github:<a href="https://github.com/RakeshReddy123devoloper?tab=repositories">github</a>
+        <p className="fresher15">
+          <span className="fresher20"> .</span>Github:<a href="https://github.com/RakeshReddy123devoloper?tab=repositories">github</a>
          
-        </h2>
-        <p className="fresher8">
-          <span className="fresher7"> .</span>:Linkedin:<a href="https://linkedin.com/in/anumandla-rakesh-reddy-94347931a">linkedin</a>
+        </p>
+        <p className="fresher16">
+          <span className="fresher20"> .</span>:Linkedin:<a href="https://linkedin.com/in/anumandla-rakesh-reddy-94347931a">linkedin</a>
         </p>
  </div>
  

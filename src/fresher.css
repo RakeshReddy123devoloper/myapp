@@ -8,7 +8,7 @@
 .fresher1{
     background-color: rgb(76, 80, 80);
     /* height: 50px; */
-    margin-top: -2vw;
+    /* margin-top: -2vw; */
 
 }
 .fresher2{
@@ -46,10 +46,11 @@ background-color: rgb(78, 85, 86);
 }
 .fresher7{
     font-size:10vh;
+   
 }
 .fresher8{
-    margin-top: -15vh;
-    padding: 20px;
+    margin-top: -10vh;
+    padding: 20px
 }
 .fresher9{
     padding-left:5vw;
@@ -76,3 +77,10 @@ background-color: rgb(78, 85, 86);
 .fresher14{
     font-size:10vh;
 } */
+ .fresher12{
+    background-color: rgb(210, 208, 205);
+    width:80vw; 
+    margin-left: 10vw;
+    margin-top: 2vh;
+    border-radius: 10px 10px 10px;
+ }
